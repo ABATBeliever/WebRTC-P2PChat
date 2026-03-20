@@ -128,7 +128,7 @@ PeerJS の DataChannel（reliable モード）でJSON相当のオブジェクト
 
 |定数|値|説明|
 |-|-|-|
-|`FILE\_SIZE\_LIMIT`|512 MB|送信可能なファイルの上限|
+|`FILE\_SIZE\_LIMIT`|128 MB|送信可能なファイルの上限|
 |`REACTION\_EMOJIS`|👍 🫠 🎉 🥹 🤔|選択可能なリアクション絵文字|
 |`JOIN\_DEDUP\_MS`|3000 ms|参加通知の重複抑制ウィンドウ|
 |ユーザ名 `maxlength`|32文字|入力欄の上限|
